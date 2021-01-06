@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/parser": "^7.9.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "node-sass": "^4.9.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
